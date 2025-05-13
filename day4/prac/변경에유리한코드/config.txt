@@ -1,0 +1,1 @@
+Animal=day4.prac.변경에유리한코드.Cat
